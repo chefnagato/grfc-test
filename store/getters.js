@@ -50,7 +50,7 @@ export default {
 
 		for ( let user of state.users ) {
 
-			if ( user.name === payload.name && user.name === payload.name ) return user;
+			if ( user.name === payload.name && user.password === payload.password ) return user;
 
 		}
 
