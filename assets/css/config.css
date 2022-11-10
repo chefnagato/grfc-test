@@ -1,0 +1,20 @@
+:root {
+
+	--unit: 10px;
+
+	--color-background:           rgba( 149, 175, 192, 1.0 );
+	--color-panel:                rgba( 255, 255, 255, 1.0 );
+	--color-panel-border:         rgba( 87, 96, 111, 1.0 );
+	--color-panel-error:          rgba( 255, 71, 87, 1.0 );
+	--color-button:               rgba( 30, 144, 255, 1.0 );
+	--color-button-text:          rgba( 255, 255, 255, 1.0 );
+	--color-button-hover:         rgba( 255, 71, 87, 1.0 );
+	--color-button-disabled:      rgba( 164, 176, 190, 1.0 );
+	--color-button-disabled-text: rgba( 116, 125, 140, 1.0 );
+
+	--basic-font-family: 'Manrope', sans-serif;
+	--basic-font-size: 16px;
+	--basic-font-weight: 400;
+	--basic-line-height: 1.5;
+
+}
